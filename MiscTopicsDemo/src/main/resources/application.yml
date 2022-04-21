@@ -1,0 +1,3 @@
+server:  port: 8754
+  
+spring:  application:    name: DefaultApp  profiles:    active:    - test
